@@ -45,6 +45,6 @@ I care about the part most people skip: taking a project from an empty repositor
 
 - Going deeper on **agentic AI** — multi-agent orchestration, tool use and evaluation
 - Strengthening **TypeScript** and **DSA** fundamentals
-- Open to **SDE, full-stack, forward-deployed and AI engineering** roles
+- Open to **SDE, full-stack, front-end, forward-deployed and AI engineering** roles
 
 If you're building something where the front end, the API and the model all have to work together, that's the work I want to do.
