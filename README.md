@@ -118,7 +118,12 @@ that real people can open and use. **Four of the projects below are live right n
 
 ## Achievement
 
-**Smart India Hackathon** — cleared two internal screening rounds at BPIT and was selected in the college's top 50 teams, as part of a six-person team building an ABDM-compliant healthcare platform.
+**Smart India Hackathon** — cleared two internal screening rounds at BPIT in consecutive editions, reaching the college's top 50 teams in 2026 with an ABDM-compliant healthcare platform.
+
+| Edition | Project | Result |
+| :--- | :--- | :--- |
+| SIH 2025 | Nivora — student housing platform | Cleared 2 internal screening rounds |
+| SIH 2026 | Mediksha — ABDM healthcare platform | Cleared 2 rounds, college top 50 |
 
 ## Currently
 
