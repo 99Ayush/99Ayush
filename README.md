@@ -112,7 +112,9 @@ that real people can open and use. **Four of the projects below are live right n
 
 ## Education
 
-**B.Tech, Computer Science & Engineering** — Bhagwan Parshuram Institute of Technology (GGSIPU), New Delhi · 2024–2028
+| Degree | Institution | Duration | CGPA |
+| :--- | :--- | :--- | :--- |
+| B.Tech, Computer Science & Engineering | Bhagwan Parshuram Institute of Technology (GGSIPU), New Delhi | 2024–2028 | **8.0 / 10** |
 
 ## Currently
 
