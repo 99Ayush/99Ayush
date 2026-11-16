@@ -17,6 +17,8 @@ I build products end to end — React front ends, Node APIs, and AI that runs in
 I care about the part most people skip: taking a project from an empty repository to a deployed URL<br/>
 that real people can open and use. **Four of the projects below are live right now.**
 
+<sub>📍 New Delhi, India &nbsp;·&nbsp; B.Tech CSE 2024–2028 &nbsp;·&nbsp; BPIT (GGSIPU)</sub>
+
 </div>
 
 <div align="center">
@@ -108,11 +110,15 @@ that real people can open and use. **Four of the projects below are live right n
 
 </div>
 
+## Education
+
+**B.Tech, Computer Science & Engineering** — Bhagwan Parshuram Institute of Technology (GGSIPU), New Delhi · 2024–2028
+
 ## Currently
 
 - Going deeper on **agentic AI** — multi-agent orchestration, tool use and evaluation
 - Strengthening **TypeScript** and **DSA** fundamentals
-- Open to **SDE, full-stack, front-end, forward-deployed and AI engineering** roles
+- Open to **SDE, full-stack, front-end, forward-deployed and AI engineering** internships and full-time roles
 
 <div align="center">
 
