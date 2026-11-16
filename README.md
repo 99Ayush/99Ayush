@@ -116,6 +116,10 @@ that real people can open and use. **Four of the projects below are live right n
 | :--- | :--- | :--- | :--- |
 | B.Tech, Computer Science & Engineering | Bhagwan Parshuram Institute of Technology (GGSIPU), New Delhi | 2024–2028 | **8.0 / 10** |
 
+## Achievement
+
+**Smart India Hackathon** — cleared two internal screening rounds at BPIT and was selected in the college's top 50 teams, as part of a six-person team building an ABDM-compliant healthcare platform.
+
 ## Currently
 
 - Going deeper on **agentic AI** — multi-agent orchestration, tool use and evaluation
