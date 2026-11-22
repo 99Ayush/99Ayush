@@ -1,3 +1,5 @@
+![Ayush Kumar](assets/logo.svg)
+
 # Ayush Kumar
 
 **Full‑stack engineer · AI‑integrated products · Shipping to production**
