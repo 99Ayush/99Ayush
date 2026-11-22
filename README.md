@@ -1,11 +1,15 @@
-![Ayush Kumar](assets/logo.svg)
-
 # Ayush Kumar
 
 **Full‑stack engineer · AI‑integrated products · Shipping to production**
 
 🧠 *Cognitive architect | Deterministic over clever | Privacy‑first*  
 📍 New Delhi, India | 🎓 B.Tech CSE 2024–2028 | 📈 8.0/10 CGPA
+
+---
+
+## 🔶 Theme: Black & Gold
+
+A premium dark‑mode palette with gold accents runs through the entire profile.
 
 ---
 
@@ -19,7 +23,7 @@ I don’t just write code that works. I design **systems where the LLM only read
 
 ---
 
-## 📦 Selected projects (correct links + badge stacks)
+## 📦 Selected projects (badge‑stacked table)
 
 | Project | What it does | Stack badges | GitHub | Live |
 |---|---|---|---|---|
@@ -75,7 +79,7 @@ graph TD
 
 ---
 
-## 🛠️ Tech stack (badge row, repeatable)
+## 🛠️ Tech stack (black‑gold badge row)
 
 <div align="center">
 
@@ -104,6 +108,6 @@ graph TD
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:3b82f6&height=30&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FFD700&height=30&section=footer" width="100%" alt="footer"/>
 
 </div>
